@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Júnior 🧑‍💻
 
-<!--
-**Josinaldo-Jr/Josinaldo-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end Pathfinder. 
+Graduated in Graphic Design, with years of experience in teaching software in the area. In love with my family and RPG player for fun.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Josinaldo-Jr GitHub stats](https://github-readme-stats.vercel.app/api?username=josinaldo-jr&show_icons=true&theme=dracula)
+
+## Technologies that i'm studying:
+
+<div style="display: inline_block"><br>
+<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+<br>
+
