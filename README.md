@@ -5,7 +5,7 @@ Graduated in Graphic Design, with years of experience in teaching softwares in t
 
 <br>
 
-![Josinaldo-Jr GitHub stats](https://github-readme-stats.vercel.app/api?username=josinaldo-jr&show_icons=true&theme=dracula)
+
 
 ## Technologies that I'm practicing:
 
